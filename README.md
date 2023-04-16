@@ -7,6 +7,8 @@
  <img alt="logoLuisIMT" src="https://user-images.githubusercontent.com/69366547/232265063-b98b7568-ed1e-4733-b2a6-390726bb228c.png">
 </picture>
 
+follow in [LinkedlnLuisIgnacioMurillo](https://www.linkedin.com/in/luis-ignacio-murillo-843bb4230)
+
 <!--
 **LuisIMT/LuisIMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
